@@ -17,7 +17,9 @@ Subway    -u 9 -p demo
 
 I will host a demo online for anyone to checkout at http://cryptoleaks.news/delivery
 
-You can download the complete source code package which is 66megs and is compressed in Linux .tar.xz format and located here http://cryptoleaks.news/delivery/mme_20220604.tar.xz
+You can download the complete source code package which is 66megs with all test data and is compressed in Linux .tar.xz format and located here http://cryptoleaks.news/delivery/mme_20220604.tar.xz
+
+In Linux you can unpack it with the command: tar -xf /path/to/mme_20220604.tar.xz
 
 If you would like to hire me to expand the project then email me at schulze.james@protonmail.com
 
