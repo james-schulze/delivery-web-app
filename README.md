@@ -9,8 +9,6 @@ The businesses which can be a person, a business or corporation can choose the k
 
 Search by location to find whatever you want locally!
 
-This project was initially not intended to be free so there are no comments in the code and it is complex. A wise developer once taught me security through obscurity means job security.
-
 McDonalds -u 7 -p demo
 Taco Bell -u 8 -p demo
 Subway    -u 9 -p demo
